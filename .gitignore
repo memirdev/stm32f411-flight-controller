@@ -1,0 +1,21 @@
+# STM32CubeIDE derleme çıktıları
+/Debug/
+/Release/
+
+# Eclipse / CubeIDE yerel dosyaları
+.metadata/
+RemoteSystemsTempFiles/
+*.launch
+.settings/language.settings.xml
+
+# Editör / araç dosyaları
+compile_commands.json
+.cache/
+.vscode/
+__pycache__/
+*.pyc
+
+# İşletim sistemi
+Thumbs.db
+Desktop.ini
+.DS_Store

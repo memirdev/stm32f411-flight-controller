@@ -1,0 +1,4 @@
+# Depoda satir sonlari LF tutulur; Windows'ta acilinca CRLF olur.
+* text=auto
+*.bin binary
+*.elf binary
